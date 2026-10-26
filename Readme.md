@@ -128,7 +128,7 @@ why: the protective range is blocked by p_C, the harmful range by X_vis.
 
 ---
 
-## Limitations (honest)
+## Limitations
 
 Uniform effect over L:
     Real effects often wane. Uniform assumption is conservative for
